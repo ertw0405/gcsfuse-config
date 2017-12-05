@@ -10,7 +10,7 @@ sudo yum install python27 # install Python 2.7
 Add the following to ~/.bashrc to enable Python2.7
 ```
 # Enable Python 2.7
-source scl_source enable python27
+source /opt/rh/python27/enable
 ```
 
 ## Install gcsfuse
