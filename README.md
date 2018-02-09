@@ -3,9 +3,10 @@ Google Cloud Storage FUSE plugin install and setup
 
 ## Install Python 2.7 on CentOS 6.5
 ```
-sudo yum update # update yum
-sudo yum install centos-release-scl # install SCL 
-sudo yum install python27 # install Python 2.7
+sudo yum update;
+sudo yum install centos-release-scl;
+sudo yum install python27;
+
 ```
 Add the following to ~/.bashrc to enable Python2.7
 ```
